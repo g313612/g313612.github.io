@@ -1,0 +1,21 @@
+h1 { font-size: 40pt; font-weight: lighter; font-family:'Rajdhani', sans-serif; text-shadow: rgb(10, 6, 6); justify-content: center; color: gray;}
+html { 
+    background: url(dd240f2dedd9881a385229443b9089f1.peking-chicken-done.jpg) no-repeat center center fixed; 
+    -webkit-background-size: center;
+    -moz-background-size: center;
+    -o-background-size: center;
+    background-size: contain;
+  }
+  .btn-lin {padding: 5pt 10pt 5pt 10pt; border-radius: 5pt; font-family:'Rajdhani', sans-serif;background-color: rgba(243, 206, 83, 0.959);border-color: rgb(243, 206, 83, 0.959); }
+  
+
+
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    opacity: 0.9
+   ;
+  }
+  
